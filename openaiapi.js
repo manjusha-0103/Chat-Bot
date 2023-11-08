@@ -1,7 +1,7 @@
 
 import  axios from 'axios';
 
-const apiKey = "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";//"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"; //"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";
+// apiKey = "YOUR_API_KEY"
 //const chatgpturl = "https://api.openai.com/v1/chat/completions"; //'https://api.openai.com/v1/engines/text-davin'
 
 // const client = axios.create({

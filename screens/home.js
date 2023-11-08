@@ -60,7 +60,7 @@ const Home = () => {
   const [inputText, setInputText] = useState("");
   const [messages, setMessages] = useState([]);
   const [recordtext, setRecordText] = useState("");
-  const [menu, setMenu] = useState(true)
+  const [menu, setMenu] = useState(false)
 
   // const speechStartHandler = async(e) => {
   //     console.log("speech start event", e);

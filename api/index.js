@@ -9,7 +9,7 @@ const Messages = require('./modals/messages')
 const OpenAI = require("openai")
 const fs = require("fs")
 
-const apikey = process.env.API_KEY ||"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"
+
 
 dotenv.config({});
 

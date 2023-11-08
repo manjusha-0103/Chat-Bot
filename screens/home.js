@@ -49,7 +49,6 @@ const dummyMessages = [
   },
 ];
 
-const apikey = "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";
 
 const Home = () => {
   const scrollViewRef = useRef();
